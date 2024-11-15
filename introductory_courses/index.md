@@ -5,7 +5,7 @@ courses: [
   python,
 ]
 summary: |
-  Introductory courses on programming languages.
+  Introductory ICR courses on programming languages.
 ---
 
-Introductory courses on programming languages.
+Introductory ICR courses on programming languages.
